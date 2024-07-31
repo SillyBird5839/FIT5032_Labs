@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|f:\\fit5032\\lab20240711\\fit5032_myjs\\fit5032_myjs\\views\\home\\viewpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|solutionrelative:fit5032_myjs\\views\\home\\viewpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|f:\\fit5032\\lab20240711\\fit5032_myjs\\fit5032_myjs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|solutionrelative:fit5032_myjs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|f:\\fit5032\\lab20240711\\fit5032_myjs\\fit5032_myjs\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|solutionrelative:fit5032_myjs\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|f:\\fit5032\\lab20240711\\fit5032_myjs\\fit5032_myjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|solutionrelative:fit5032_myjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|f:\\fit5032\\lab20240711\\fit5032_myjs\\fit5032_myjs\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|solutionrelative:fit5032_myjs\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|f:\\fit5032\\lab20240711\\fit5032_myjs\\fit5032_myjs\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|solutionrelative:fit5032_myjs\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|f:\\fit5032\\lab20240711\\fit5032_myjs\\fit5032_myjs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|solutionrelative:fit5032_myjs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|f:\\fit5032\\lab20240711\\fit5032_myjs\\fit5032_myjs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F655E9B-7D0D-4FDE-B833-4B5EE15CB3DF}|FIT5032_MyJS\\FIT5032_MyJS.csproj|solutionrelative:fit5032_myjs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewPage1.cshtml",
+              "DocumentMoniker": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Home\\ViewPage1.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyJS\\Views\\Home\\ViewPage1.cshtml",
+              "ToolTip": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Home\\ViewPage1.cshtml",
+              "RelativeToolTip": "FIT5032_MyJS\\Views\\Home\\ViewPage1.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T03:00:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FIT5032_MyJS\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FIT5032_MyJS\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:51:51.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FIT5032_MyJS\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FIT5032_MyJS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:51:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "FIT5032_MyJS\\Controllers\\ManageController.cs",
+              "ToolTip": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "FIT5032_MyJS\\Controllers\\ManageController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwD4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:51:44.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyJS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FIT5032_MyJS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T02:43:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyJS\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "FIT5032_MyJS\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T03:01:45.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyJS\\Views\\Home\\About.cshtml",
+              "ToolTip": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FIT5032_MyJS\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T03:01:46.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyJS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Fit5032\\lab20240711\\FIT5032_MyJS\\FIT5032_MyJS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FIT5032_MyJS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:38:11.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
